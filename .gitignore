@@ -1,10 +1,28 @@
-# macOS
-.DS_Store
-
-# Python
+# Python cache and bytecode
 __pycache__/
-*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
 
-# VSCode
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code settings
 .vscode/
-.venv
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local configuration
+*.env
