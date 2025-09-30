@@ -73,13 +73,13 @@ To get this script running on your local machine, you'll need Python 3 and the F
 
 # For Windows Users 💻
 
-# Download FFmpeg: 
+### Download FFmpeg: 
 - Go to the FFmpeg official download page and click the Windows icon. Use one of the recommended build links (e.g., "Windows builds by BtbN"). Download the latest ffmpeg-master-latest-win64-gpl.zip file.
 
-# Extract FFmpeg: 
+### Extract FFmpeg: 
 - Create a folder at a simple location (e.g., C:\FFmpeg). Extract the contents of the downloaded ZIP file into this folder.
 
-# Add FFmpeg to Windows PATH:
+### Add FFmpeg to Windows PATH:
 
 - Search for "Environment Variables" in the Start Menu and select "Edit the system environment variables".
 - Click the "Environment Variables..." button.
